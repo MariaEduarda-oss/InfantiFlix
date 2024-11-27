@@ -1,6 +1,6 @@
 body {
   color:#30694d;
-  background-color:#00291300;
+  background-color:#0f502db9;
 }
 
   header{
@@ -12,7 +12,7 @@ body {
     font-size: 30px;
   }
   h2{
-    color:aquamarine;
+    color:rgb(0, 0, 0);
   }
 
   section {
