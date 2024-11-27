@@ -1,10 +1,10 @@
 body {
   color:#30694d;
-  background-color:#00291300
+  background-color:#00291300;
 }
 
   header{
-    color:black
+    color:white;
   }
 
   h1{
@@ -12,12 +12,12 @@ body {
     font-size: 30px;
   }
   h2{
-    color:aquamarine
+    color:aquamarine;
   }
 
   section {
-    color:aquamarine
-    background:blue
+    color:aquamarine;
+    background:blue;
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex; /* torna flexivel = põe um do lado do outro */
