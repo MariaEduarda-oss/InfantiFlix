@@ -17,7 +17,7 @@ body {
 
   section {
     color:aquamarine;
-    background:blue;
+    background:rgb(229, 255, 0);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex; /* torna flexivel = põe um do lado do outro */
