@@ -1,12 +1,16 @@
 body {
   color:#30694d;
-  background-color:#002913
+  background-color:#00291300
 }
 
   header{
     color:black
   }
 
+  h1{
+    color:white;
+    font-size: 30px;
+  }
   h2{
     color:aquamarine
   }
